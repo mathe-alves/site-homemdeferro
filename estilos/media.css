@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+div#tv-radio{
+   width:900px;
+   heigth: 580px;
+   margin: auto;
+   background: url("imagens/quadrinho.png") no-repeat;
+}
+
+video#filme {
+	display: block;
+	position: relative;
+	left:0px;
+	top: 1px;
+	width: 510px;
+	
+	
+	
+}
