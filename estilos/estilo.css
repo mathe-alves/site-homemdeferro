@@ -100,17 +100,17 @@ font-family: 'fontelogo';
 			  box-sizing: border-box;
 			  transition: opacity 1s;
 		  }
-		  figure.foto-legenda:hover figcaption{
+		  figure.foto-legenda:hover figcaption {
 			  opacity: 1;
 		  }
 		  
 		  /* formatação para o menu */
 		  
-		  nav#menu{
+		  nav#menu {
 			  display: block;
 		  }
 		  
-		  nav#menu ol{
+		  nav#menu ol {
 			  list-style: none;
 			  text-transform: uppercase;
 			  position: absolute;
@@ -118,7 +118,7 @@ font-family: 'fontelogo';
 			  left: 249px;
 		  }
 		  
-		  nav#menu li{
+		  nav#menu li {
 			  display:inline-block;
 			  background-color: #dddddd;
 			  padding: 10px;
